@@ -16,6 +16,7 @@ import {
   Text,
   useColorScheme,
   View,
+  ScrollView
 } from 'react-native';
 
 import {
